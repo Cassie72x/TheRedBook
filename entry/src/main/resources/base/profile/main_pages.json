@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/DetailPage",
+    "pages/SearchPage",
+    "pages/ProfilePage",
+    "pages/MessagePage",
+    "pages/EditProfilePage",
+    "pages/MarketPage",
+    "pages/LikeCollectPage",
+    "pages/NewFollowPage",
+    "pages/CommentAtPage",
+    "pages/ChatPage"
+  ]
+}
